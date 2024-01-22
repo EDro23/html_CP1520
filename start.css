@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 550px;
+    margin: 0 auto;
+    padding: 1dvb;
+    border: 1px solid rgb(158, 51, 230)
+}
+h1 {
+    color: red
+}
+h2 {
+    color: orangered
+}
+h3{
+    color: purple
+}
+h6{
+    color: rgb(207, 0, 45)
+}
+p{
+    color: rgb(3, 4, 102);
+    
+}
+
+h4{
+    color: rgb(2, 20, 14)
+}
