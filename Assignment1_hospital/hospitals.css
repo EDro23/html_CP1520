@@ -9,3 +9,26 @@ orange {
 h3{
     vertical-align: top;
 }
+image-container{
+    align-items: left,top;
+}
+
+h3{
+    align-items: top;
+}
+pink{
+    color: violet;
+    font-family:'Courier New', Courier, monospace
+}
+gh1{
+    font-size: 150%;
+    color: blue
+}
+
+h2{
+    color: violet;
+    
+}
+h4{
+    font-size: 75%
+}
