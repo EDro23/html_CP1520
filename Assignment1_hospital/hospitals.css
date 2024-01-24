@@ -18,17 +18,22 @@ h3{
 }
 pink{
     color: violet;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
 }
 gh1{
     font-size: 150%;
     color: blue
 }
 
-h2{
+h2c{
     color: violet;
     
 }
 h4{
     font-size: 75%
+
+}
+h3 > span { 
+            color: violet; 
+
 }
