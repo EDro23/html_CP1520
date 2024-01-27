@@ -10,7 +10,7 @@ h3{
     vertical-align: top;
 }
 image-container{
-    align-items: left,top;
+    float:left
 }
 
 h3{
@@ -19,6 +19,7 @@ h3{
 pink{
     color: violet;
     font-family:'Courier New', Courier, monospace;
+    font-size: 75%;
 }
 gh1{
     font-size: 150%;
@@ -34,6 +35,6 @@ h4{
 
 }
 h3 > span { 
-            color: violet; 
+            color: violet;
 
 }
