@@ -2,3 +2,21 @@ h1{
     color: blue
 
 }
+
+h4{
+    font-variant: normal;
+}
+
+header{
+    color:blue;
+    font-size:h1 ;
+    
+}
+
+.image-container2{
+    margin-left: 22px;
+}
+
+.image-container{
+    margin-left: 22px;
+}
