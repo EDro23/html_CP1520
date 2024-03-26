@@ -1,0 +1,47 @@
+table{
+    border: purple thick solid;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px dotted blue;
+    padding:3px;
+}
+
+h1{
+    color: blue;
+}
+tfoot{
+    color: green;
+}
+tbody tr:nth-child(even){
+    background-color: plum;
+}
+
+tr td:last-child,
+tbody tr td:nth-last-child(2) {
+    text-align: right;
+
+}
+
+tr th:nth-child(2){
+    width:200px;
+
+}
+
+img {
+    width:200px;
+    height:200px;
+
+}
+
+thead td{
+    text-align: left;
+}
+tr td{
+    text-align: left;
+}
+
+th {
+    background-color: violet;
+}
