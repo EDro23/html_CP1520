@@ -1,6 +1,7 @@
 table{
     border: purple thick solid;
     border-collapse: collapse;
+    margin-top: 10px;
 }
 
 tbody {
@@ -8,7 +9,7 @@ tbody {
 }
 
 th, td {
-    border: 1px dotted blue;
+    border: 1px solid black;
     padding:3px;
 }
 
@@ -16,9 +17,9 @@ h1{
     color: blue;
 }
 tfoot{
-    color: violet;
+    color: green;
 }
-tbody tr:nth-child(even){
+tbody tr:nth-child(odd){
     background-color: plum;
 }
 
@@ -42,6 +43,7 @@ img {
 
 thead td{
     text-align: left;
+    border: 1px dotted black;
 }
 tr td{
     text-align: left;
@@ -49,4 +51,8 @@ tr td{
 
 th {
     background-color: violet;
+}
+
+thead td div {
+    color: purple;
 }
